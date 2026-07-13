@@ -20,7 +20,7 @@ import {
   templateUrl,
   updateProduct,
   uploadExcel,
-} from './services/api';
+} from './services/api.js';
 import './styles.css';
 
 const tabs = [
